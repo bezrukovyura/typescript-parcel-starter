@@ -1,0 +1,17 @@
+{
+  "name": "typescript-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "parcel.config.js",
+  "scripts": {
+    "build": "node parcel.config.js",
+    "site": "node server-site"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "parcel-bundler": "^1.12.4",
+    "static-server": "^2.2.1",
+    "typescript": "^3.8.3"
+  }
+}
